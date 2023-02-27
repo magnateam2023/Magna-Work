@@ -31,7 +31,7 @@ export default {
       var containerDiv = document.getElementById("test");
       // Then you make a data object that contains the options and parameters for them that you want the dashboard to have
       var options = {
-        url: "https://us-east-1.quicksight.aws.amazon.com/sn/accounts/175814219454/dashboards/ba91164b-19e8-4dfc-8ce2-52d08a5a6ebf?directory_alias=magna-corp-rnd",  
+        url: "https://us-east-1.quicksight.aws.amazon.com/sn/accounts/064484330727/dashboards/f0274864-f4f8-4c4b-b45b-d271708e0043?directory_alias=joeymeng2050",  
         container: containerDiv,
         scrolling: "no",
         height: "1000px",
