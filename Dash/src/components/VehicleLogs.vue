@@ -21,10 +21,10 @@
             <tr>
                 <th :sortKey="vID" id="test" scope="col">Vehicle ID</th>
                 <th sortKey="BatteryStatus" scope="col">Battery Status</th>
-                <th sortKey="BreakFluid" scope="col">Break Fluid</th>
+                <th sortKey="BreakFluid" scope="col">Break Fluid (mL)</th>
                 <th sortKey="TirePressure" scope="col">Tire Pressure (PSI)</th>
                 <th sortKey="EngineHealth" scope="col">Engine Health</th>
-                <th sortKey="CoolantLevels" scope="col">Coolant Levels (Liters)</th>
+                <th sortKey="CoolantLevels" scope="col">Coolant Levels (mL)</th>
                 <th sortKey="ConverterVoltage" scope="col">AC/DC Converter Voltage (V)</th>
                 <th sortKey="Processor" scope="col">Processor Name</th>
                 <th sortKey="Sensor" scope="col">Sensor Name</th>
