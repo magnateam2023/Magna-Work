@@ -8,10 +8,10 @@
             <tr>
                 <th><button @click="sortVehicle" @dblclick="sortVehicleReverse"><img src="../assets/number.png" width="30"></button></th> 
                 <th><button @click="sortGeneric(1)" @dblclick="sortGenericReverse(1)"><img src="../assets/battery.jpg" width="30"></button></th>
-                <th><button @click="sortGeneric(2)" @dblclick="sortGenericReverse(2)"><img src="../assets/breakfluid.png" width="30"></button></th>
+                <th><button @click="sortGeneric(2)" @dblclick="sortGenericReverse(2)"><img src="../assets/meter.png" width="30"></button></th>
                 <th><button @click="sortGeneric(3)" @dblclick="sortGenericReverse(3)"><img src="../assets/tire.png" width="30"></button></th>
                 <th><button @click="sortGeneric(4)" @dblclick="sortGenericReverse(4)"><img src="../assets/engine.png" width="30"></button></th>
-                <th><button @click="sortGeneric(5)" @dblclick="sortGenericReverse(5)"><img src="../assets/coolant.png" width="30"></button></th>
+                <th><button @click="sortGeneric(5)" @dblclick="sortGenericReverse(5)"><img src="../assets/meter.png" width="30"></button></th>
                 <th><button @click="sortGeneric(6)" @dblclick="sortGenericReverse(6)"><img src="../assets/converter.png" width="30"></button></th>
                 <th><button @click="sortGeneric(7)" @dblclick="sortGenericReverse(7)"><img src="../assets/cpu.png" width="30"></button></th>
                 <th><button @click="sortGeneric(8)" @dblclick="sortGenericReverse(8)"><img src="../assets/sensor.png" width="30"></button></th>
