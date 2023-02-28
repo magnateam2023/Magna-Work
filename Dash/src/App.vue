@@ -10,6 +10,7 @@ import weeklyEmergency from './components/WeeklyEmergency.vue'
 import monthlyEmergency from './components/MonthlyEmergency.vue'
 import lifetimeEmergency from './components/LifetimeEmergency.vue'
 import deliveryChecker from './components/DeliveryCheck.vue'
+import vehicleLogs from './components/VehicleLogs.vue'
 
 // Defines a data object that will tell the route calculator where to go when given one of the options
 // Concept outlined in 
@@ -24,6 +25,7 @@ const routes = {
   '/monthlyEmergency' : monthlyEmergency,
   '/lifetimeEmergency' : lifetimeEmergency,
   '/deliveryChecker' : deliveryChecker,
+  '/vehicleLogs' : vehicleLogs,
   '/login' : loginPage
 }
 
