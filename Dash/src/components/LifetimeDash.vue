@@ -13,6 +13,8 @@
 
   </template>
 
+  
+
 <script>
   //import { embedDashboard } from 'amazon-quicksight-embedding-sdk';
   export default {
@@ -34,7 +36,7 @@
         var containerDiv = document.getElementById("test");
         // Then you make a data object that contains the options and parameters for them that you want the dashboard to have
         var options = {
-          url: "https://us-east-1.quicksight.aws.amazon.com/sn/accounts/175814219454/dashboards/875431f4-8097-4b77-988a-94a492fb9eae?directory_alias=magna-corp-rnd",  
+          url: "https://us-east-1.quicksight.aws.amazon.com/sn/embed/share/accounts/064484330727/dashboards/e52e2998-72ca-48bd-a9e5-6483253a3dd5?directory_alias=joeymeng2050",  
           container: containerDiv,
           scrolling: "no",
           height: "1000px",
