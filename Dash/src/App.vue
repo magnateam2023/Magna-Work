@@ -75,7 +75,7 @@ export default {
           </div>
       </div>
       <li class="nav_list_elem"><a class="nav_link" href="#/deliveryChecker" >Delivery Errors</a></li>
-      <li class="nav_list_elem"><a class="nav_link">Vehicle Logs</a></li>
+      <li class="nav_list_elem"><a class="nav_link" href="#/vehicleLogs" >Vehicle Logs</a></li>
       <li class="nav_list_elem"><a class="nav_link">Logout (admin@magna.com)</a></li>
     </ul>
   </nav>
