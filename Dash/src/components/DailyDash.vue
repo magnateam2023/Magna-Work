@@ -34,7 +34,7 @@
         // Then you make a data object that contains the options and parameters for them that you want the dashboard to have
         
         var options = {
-          url: "https://us-east-1.quicksight.aws.amazon.com/sn/embed/share/accounts/064484330727/dashboards/4dda5841-8895-4f65-ae43-c4827decc14c?directory_alias=joeymeng2050",  
+          url: "https://us-east-1.quicksight.aws.amazon.com/sn/embed/share/accounts/064484330727/dashboards/37d63f18-0e0c-4237-9faf-42824a521d64?directory_alias=joeymeng2050",  
           container: containerDiv,
           scrolling: "no",
           height: "1000px",
