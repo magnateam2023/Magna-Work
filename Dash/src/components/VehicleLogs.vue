@@ -15,7 +15,7 @@
                 <th><button @click="sortGeneric(6)" @dblclick="sortGenericReverse(6)"><img src="../assets/converter.png" width="30"></button></th>
                 <th><button @click="sortGeneric(7)" @dblclick="sortGenericReverse(7)"><img src="../assets/cpu.png" width="30"></button></th>
                 <th><button @click="sortGeneric(8)" @dblclick="sortGenericReverse(8)"><img src="../assets/sensor.png" width="30"></button></th>
-                <th><button @click="sortGeneric(9)" @dblclick="sortGenericReverse(9)"><img src="../assets/sensor.png" width="30"></button></th>
+                <th><button @click="sortGeneric(9)" @dblclick="sortGenericReverse(9)"><img src="../assets/repair.png" width="30"></button></th>
 
             </tr>
             <!-- Contains the headers for each row of the table -->
