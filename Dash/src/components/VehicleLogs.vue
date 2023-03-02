@@ -15,6 +15,7 @@
                 <th><button @click="sortGeneric(6)" @dblclick="sortGenericReverse(6)"><img src="../assets/converter.png" width="30"></button></th>
                 <th><button @click="sortGeneric(7)" @dblclick="sortGenericReverse(7)"><img src="../assets/cpu.png" width="30"></button></th>
                 <th><button @click="sortGeneric(8)" @dblclick="sortGenericReverse(8)"><img src="../assets/sensor.png" width="30"></button></th>
+                <th><button @click="sortGeneric(9)" @dblclick="sortGenericReverse(9)"><img src="../assets/sensor.png" width="30"></button></th>
 
             </tr>
             <!-- Contains the headers for each row of the table -->
@@ -28,6 +29,7 @@
                 <th sortKey="dist" scope="col">AC/DC Converter Voltage (V)</th>
                 <th sortKey="speed" scope="col">Processor Name</th>
                 <th sortKey="battery" scope="col">Sensor Name</th>
+                <th sortKey="battery" scope="col">Urgent Maintenance Needed</th>
             </tr>
         </thead>
         <!-- Loops through a json file and outputs each row and the given error for that entry -->
